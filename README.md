@@ -3,7 +3,7 @@
 ### Recent blog posts
 <!-- RECENT-BLOG-POSTS:START -->
 - [JavaScript ES6+ İpuçları #7: at() Metoduyla İstenilen İndeksteki Değere Erişmek](https://tugsanunlu.medium.com/javascript-es6-i%CC%87pu%C3%A7lar%C4%B1-7-at-metoduyla-i%CC%87stenilen-i%CC%87ndeksteki-de%C4%9Fere-eri%C5%9Fmek-7b6b2c0fa32?source=rss-aff3f518ee8b------2)
-- [Webpack İpuçları #3: Canlı Ortama Çıkarken Konsol Loglarını Temizlemek](https://tugsanunlu.medium.com/webpack-i%CC%87pu%C3%A7lar%C4%B1-3-canl%C4%B1-ortama-%C3%A7%C4%B1karken-konsol-loglar%C4%B1n%C4%B1-temizlemek-8b12614c6fb4?source=rss-aff3f518ee8b------2)
+- [Webpack İpuçları #3: Terser Plugin ile Canlı Ortama Çıkarken Konsol Loglarını Temizlemek](https://tugsanunlu.medium.com/webpack-i%CC%87pu%C3%A7lar%C4%B1-3-canl%C4%B1-ortama-%C3%A7%C4%B1karken-konsol-loglar%C4%B1n%C4%B1-temizlemek-8b12614c6fb4?source=rss-aff3f518ee8b------2)
 - [Axios İpuçları #2: Interceptor Kullanarak HTTP İstek ve Yanıtlarını Yönetmek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-2-interceptor-kullanarak-http-i%CC%87stek-ve-yan%C4%B1tlar%C4%B1n%C4%B1-y%C3%B6netmek-76cffa9139d2?source=rss-aff3f518ee8b------2)
 - [Axios İpuçları #1: Cancel Token ile HTTP İsteklerini İptal Etmek](https://tugsanunlu.medium.com/axios-cancel-token-ile-http-i%CC%87steklerini-i%CC%87ptal-etmek-b60fe8f725d4?source=rss-aff3f518ee8b------2)
 - [React Native Uygulamalarında HTML Render Etmek](https://tugsanunlu.medium.com/react-native-uygulamalar%C4%B1nda-html-render-etmek-ac820758c6bb?source=rss-aff3f518ee8b------2)
