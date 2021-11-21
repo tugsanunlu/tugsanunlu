@@ -2,6 +2,7 @@
 
 ### Recent blog posts
 <!-- RECENT-BLOG-POSTS:START -->
+- [Cypress İpuçları #2: Iframe ile Çalışmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-2-iframe-ile-%C3%A7al%C4%B1%C5%9Fmak-6ee08316f40c?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #1: Ortam Tanımlamak ve Ortam Değişkenleri Kullanmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-1-ortam-tan%C4%B1mlamak-ve-ortam-de%C4%9Fi%C5%9Fkenleri-kullanmak-374099ac8603?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #0: Girizgâh](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-0-girizg%C3%A2h-652f6cb5fc60?source=rss-aff3f518ee8b------2)
 - [Axios İpuçları #3: LRU Cache ile HTTP Yanıtlarını Önbelleklemek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-3-lru-cache-ile-http-yan%C4%B1tlar%C4%B1n%C4%B1-%C3%B6nbelleklemek-4ecbf40434d0?source=rss-aff3f518ee8b------2)
@@ -11,5 +12,4 @@
 - [Axios İpuçları #2: Interceptor Kullanarak HTTP İstek ve Yanıtlarını Yönetmek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-2-interceptor-kullanarak-http-i%CC%87stek-ve-yan%C4%B1tlar%C4%B1n%C4%B1-y%C3%B6netmek-76cffa9139d2?source=rss-aff3f518ee8b------2)
 - [Axios İpuçları #1: Cancel Token ile HTTP İsteklerini İptal Etmek](https://tugsanunlu.medium.com/axios-cancel-token-ile-http-i%CC%87steklerini-i%CC%87ptal-etmek-b60fe8f725d4?source=rss-aff3f518ee8b------2)
 - [React Native Uygulamalarında HTML Render Etmek](https://tugsanunlu.medium.com/react-native-uygulamalar%C4%B1nda-html-render-etmek-ac820758c6bb?source=rss-aff3f518ee8b------2)
-- [GitHub Actions ve JavaScript ile Dinamik README Dosyası Oluşturmak](https://tugsanunlu.medium.com/github-actions-ve-javascript-ile-dinamik-readme-dosyas%C4%B1-olu%C5%9Fturmak-2c0686878407?source=rss-aff3f518ee8b------2)
 <!-- RECENT-BLOG-POSTS:END -->
