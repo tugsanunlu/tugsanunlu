@@ -2,6 +2,7 @@
 
 ### Recent blog posts
 <!-- RECENT-BLOG-POSTS:START -->
+- [Cypress İpuçları #5: Chrome DevTools Recorder ile Test Senaryoları Oluşturmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-5-chrome-devtools-recorder-ile-test-senaryolar%C4%B1-olu%C5%9Fturmak-fb6add3e8238?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #4: HTTP İstekleri Yapmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-4-http-i%CC%87stekleri-yapmak-901a5cd2a69e?source=rss-aff3f518ee8b------2)
 - [Axios İpuçları #4: localForage ile HTTP Yanıtlarını IndexedDB’de Önbelleklemek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-4-localforage-ile-http-yan%C4%B1tlar%C4%B1n%C4%B1-indexeddbde-%C3%B6nbelleklemek-c246ebf6d8f8?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #3: Custom Command Tanımlamak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-3-custom-command-tan%C4%B1mlamak-f1d95c8949fd?source=rss-aff3f518ee8b------2)
@@ -11,5 +12,4 @@
 - [Axios İpuçları #3: LRU Cache ile HTTP Yanıtlarını Önbelleklemek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-3-lru-cache-ile-http-yan%C4%B1tlar%C4%B1n%C4%B1-%C3%B6nbelleklemek-4ecbf40434d0?source=rss-aff3f518ee8b------2)
 - [Webpack İpuçları #4: Content Hash ile Bundle Dosyalarının Tarayıcı Önbelleğinde Kalmasını Önlemek](https://tugsanunlu.medium.com/webpack-i%CC%87pu%C3%A7lar%C4%B1-4-content-hash-ile-bundle-dosyalar%C4%B1n%C4%B1n-taray%C4%B1c%C4%B1-%C3%B6nbelle%C4%9Finde-kalmas%C4%B1n%C4%B1-%C3%B6nlemek-441047328799?source=rss-aff3f518ee8b------2)
 - [JavaScript ES6+ İpuçları #7: at&lpar;&rpar; Metoduyla İstenilen İndeksteki Değere Erişmek](https://tugsanunlu.medium.com/javascript-es6-i%CC%87pu%C3%A7lar%C4%B1-7-at-metoduyla-i%CC%87stenilen-i%CC%87ndeksteki-de%C4%9Fere-eri%C5%9Fmek-7b6b2c0fa32?source=rss-aff3f518ee8b------2)
-- [Webpack İpuçları #3: Terser Plugin ile Canlı Ortama Çıkarken Konsol Loglarını Temizlemek](https://tugsanunlu.medium.com/webpack-i%CC%87pu%C3%A7lar%C4%B1-3-canl%C4%B1-ortama-%C3%A7%C4%B1karken-konsol-loglar%C4%B1n%C4%B1-temizlemek-8b12614c6fb4?source=rss-aff3f518ee8b------2)
 <!-- RECENT-BLOG-POSTS:END -->
