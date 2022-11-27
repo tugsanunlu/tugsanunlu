@@ -2,7 +2,6 @@
 
 ### Recent blog posts
 <!-- RECENT-BLOG-POSTS:START -->
-- [React Testing Library ile Kullanıcı Odaklı Birim Testler Yazmak](https://tugsanunlu.medium.com/react-testing-library-ile-kullan%C4%B1c%C4%B1-odakl%C4%B1-birim-testler-yazmak-39d5ce801630?source=rss-aff3f518ee8b------2)
 - [Axios İpuçları #5: Axios Mock Adapter ile HTTP İsteklerini Mocklamak](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-5-axios-mock-adapter-ile-http-i%CC%87steklerini-mocklamak-4b2c586f4ae1?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #5: Chrome DevTools Recorder ile Test Senaryoları Oluşturmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-5-chrome-devtools-recorder-ile-test-senaryolar%C4%B1-olu%C5%9Fturmak-fb6add3e8238?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #4: HTTP İstekleri Yapmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-4-http-i%CC%87stekleri-yapmak-901a5cd2a69e?source=rss-aff3f518ee8b------2)
