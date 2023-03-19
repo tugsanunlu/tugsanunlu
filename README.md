@@ -10,5 +10,4 @@
 - [Cypress İpuçları #2: Iframe ile Çalışmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-2-iframe-ile-%C3%A7al%C4%B1%C5%9Fmak-6ee08316f40c?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #1: Ortam Tanımlamak ve Ortam Değişkenleri Kullanmak](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-1-ortam-tan%C4%B1mlamak-ve-ortam-de%C4%9Fi%C5%9Fkenleri-kullanmak-374099ac8603?source=rss-aff3f518ee8b------2)
 - [Cypress İpuçları #0: Girizgâh](https://tugsanunlu.medium.com/cypress-i%CC%87pu%C3%A7lar%C4%B1-0-girizg%C3%A2h-652f6cb5fc60?source=rss-aff3f518ee8b------2)
-- [Axios İpuçları #3: LRU Cache ile HTTP Yanıtlarını Önbelleklemek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-3-lru-cache-ile-http-yan%C4%B1tlar%C4%B1n%C4%B1-%C3%B6nbelleklemek-4ecbf40434d0?source=rss-aff3f518ee8b------2)
 <!-- RECENT-BLOG-POSTS:END -->
