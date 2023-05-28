@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-readme-with-github-actions",
+  "version": "1.0.0",
+  "description": "Dynamic README with GitHub Actions and JavaScript.",
+  "main": "readme.js",
+  "scripts": {
+    "start": "node src/readme.js"
+  },
+  "keywords": [
+    "readme",
+    "github actions",
+    "javascript"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
